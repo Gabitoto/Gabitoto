@@ -10,7 +10,7 @@
 - 🤝 Open for collaborations in Blockchain, analytics and data science.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in Data Science fields.
-- 👨 Know more about me at [LinkedIn](www.linkedin.com/in/gabirondolucas99) 
+- 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/gabirondolucas99) 
 - 📫 How to reach me: **gabirondolucas@gmail.com**
 
 ## My Skills Include
