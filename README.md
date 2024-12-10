@@ -45,6 +45,6 @@
 </span>
 
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Stats</b>
-<img src="https://github-readme-stats.vercel.app/api?username=Gabitoto&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabitoto&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabitoto&layout=compact&theme=github_dark"/>|
+[![](https://github-readme-stats.vercel.app/api?username=Gabitoto&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gabitoto)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Gabitoto&theme=material-palenight)](https://github.com/Gabitoto)
+</div>
