@@ -45,6 +45,15 @@
 </span>
 
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Stats</b>
-[![](https://github-readme-stats.vercel.app/api?username=Gabitoto&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gabitoto)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Gabitoto&theme=material-palenight)](https://github.com/Gabitoto)
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Gabitoto&show_icons=true&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabitoto&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Gabitoto&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabitoto&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
