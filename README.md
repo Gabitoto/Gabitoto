@@ -4,10 +4,10 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-👋 I am an advanced student of the Technical Degree in Data Processing and Analysis. I am passionate about learning new technologies and specializing in data science and Data Engineering to build innovative solutions for real-world challenges.
+👋 I am an advanced student of the Technical Degree in Data Processing and Analysis. I am passionate about learning new technologies and specializing in Data Science and Data Engineering to build innovative solutions for real-world challenges.
 
 - 👨🏽‍💻 Currently working on, learning, and expanding my skill set in machine learning, statistics, data structures and algorithms.
-- 🤝 Open for collaborations in Blockchain, analytics and data science.
+- 🤝 Open for collaborations in Analytics and data science.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in Data Science fields.
 - 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/gabirondolucas99) 
