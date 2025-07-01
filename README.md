@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </span>
 
-## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Stats</b>
+## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="24"> <b>GitHub Stats</b>
 <p align="">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabitoto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
