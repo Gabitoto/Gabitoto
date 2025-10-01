@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-👋 I am an advanced student of the Technical Degree in Data Processing and Analysis. I am passionate about learning new technologies and specializing in Data Science and Data Engineering to build innovative solutions for real-world challenges.
+👋 I am an advanced student of the BSc in Data Science. I am passionate about learning new technologies and specializing in Data Science and Data Engineering to build innovative solutions for real-world challenges.
 
 - 🚀 Currently working on, learning, and expanding my skill set in data engineering, big data technologies, ETL processes, and cloud data platforms.
 - 🤝 Open for collaborations in data engineering and data infrastructure projects.
