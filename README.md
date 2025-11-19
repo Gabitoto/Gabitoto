@@ -7,11 +7,12 @@
 👋 I am an advanced student of the BSc in Data Science. I am passionate about learning new technologies and specializing in Data Science and Data Engineering to build innovative solutions for real-world challenges.
 
 - 🚀 Currently working on, learning, and expanding my skill set in data engineering, big data technologies, ETL processes, and cloud data platforms.
-- 🤝 Open for collaborations in data engineering and data infrastructure projects.
+- 🤝 Open for collaborations in data engineering and data science projects.
 - 🌍 Willing to contribute to open-source development projects related to data pipelines, real-time processing, and distributed systems.
 - 👍 Looking for opportunities to join as an intern/full time in Data fields.
 - 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/gabirondolucas99) 
 - 📫 How to reach me: **gabirondolucas@gmail.com**
+- ⭐[Stars](https://github.com/Gabitoto?tab=stars), Here is the list of repositories ordered by topics.
 
 ## My Skills Include
 
