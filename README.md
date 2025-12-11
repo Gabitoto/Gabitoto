@@ -4,9 +4,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-👋 I am an advanced student of the BSc in Data Science. I am passionate about learning new technologies and specializing in Data Science and Data Engineering to build innovative solutions for real-world challenges.
+👋 I am an advanced student of the BSc in Data Science at FI-UNER. I am passionate about learning new technologies and specializing in Data Science to build innovative solutions for real-world challenges.
 
-- 🚀 Currently working on, learning, and expanding my skill set in data engineering, big data technologies, ETL processes, and cloud data platforms.
+- 🚀 Currently working on, learning, and expanding my skill set in data engineering, big data technologies, data science, and cloud data platforms.
 - 🤝 Open for collaborations in data engineering and data science projects.
 - 🌍 Willing to contribute to open-source development projects related to data pipelines, real-time processing, and distributed systems.
 - 👍 Looking for opportunities to join as an intern/full time in Data fields.
